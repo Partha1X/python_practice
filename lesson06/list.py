@@ -106,7 +106,7 @@ mycopy.sort()
 print(mycopy)
 print(nums)  # 'nums' remains unchanged
 
-# Check the data type of the 'nums' list
+# Check the data type of the 'nums' list Using type function
 print(type(nums))
 
 # Create a list with mixed data types
